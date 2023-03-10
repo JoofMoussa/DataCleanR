@@ -1,0 +1,2545 @@
+<?xml version="1.0"?>
+
+<rows>
+  <Etudiant>
+    <CODE>AAD005</CODE>
+    <Numero>W8NNJ6T</Numero>
+    <Nom>Ndoye</Nom>
+    <Prénom>Ousmane</Prénom>
+    <Date.de.naissance>2009-04-09</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[20;18:18] </MATH>
+    <MOyMATH>19</MOyMATH>
+    <FRANCAIS>Francais[12;14;14:13] </FRANCAIS>
+    <MOyFR>13.3333333333333</MOyFR>
+    <ANGLAIS>Anglais[15;16;16:14] </ANGLAIS>
+    <MOyAnglais>15.6666666666667</MOyAnglais>
+    <PC>PC[17:18]  </PC>
+    <MOyPC>17</MOyPC>
+    <SVT>SVT[14;15;15;16:14]  </SVT>
+    <MOySVT>15</MOySVT>
+    <HG>HG[13:16]</HG>
+    <MOyHG>13</MOyHG>
+    <MoyenneGenerale>15.5</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD005</CODE>
+    <Numero>40DKG6T</Numero>
+    <Nom>Diallo</Nom>
+    <Prénom>Awa</Prénom>
+    <Date.de.naissance>2021-10-21</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[15;16;15;13:17]</MATH>
+    <MOyMATH>14.75</MOyMATH>
+    <FRANCAIS>Francais[11:13]</FRANCAIS>
+    <MOyFR>11</MOyFR>
+    <ANGLAIS>Anglais[14:13]</ANGLAIS>
+    <MOyAnglais>14</MOyAnglais>
+    <PC>PC[17;20;18:15]</PC>
+    <MOyPC>18.3333333333333</MOyPC>
+    <SVT>SVT[13;11;15;11:12]</SVT>
+    <MOySVT>12.5</MOySVT>
+    <HG>HG[15:13]</HG>
+    <MOyHG>15</MOyHG>
+    <MoyenneGenerale>14.2638888888889</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD004</CODE>
+    <Numero>LIHGFR0</Numero>
+    <Nom>Diallo</Nom>
+    <Prénom>Nourou</Prénom>
+    <Date.de.naissance>2002-01-02</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[14;15:10] </MATH>
+    <MOyMATH>14.5</MOyMATH>
+    <FRANCAIS>Francais[12;13:13] </FRANCAIS>
+    <MOyFR>12.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[14;13:07] </PC>
+    <MOyPC>13.5</MOyPC>
+    <SVT>SVT[15;19:10] </SVT>
+    <MOySVT>17</MOySVT>
+    <HG>HG[13;12:15]</HG>
+    <MOyHG>12.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD007</CODE>
+    <Numero>9H37AKZ</Numero>
+    <Nom>Low</Nom>
+    <Prénom>Joakim</Prénom>
+    <Date.de.naissance>2020-12-20</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>   Math[12;14;5;11:13]   </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[14;12:13]  </FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>Anglais[12;8:15]  </ANGLAIS>
+    <MOyAnglais>10</MOyAnglais>
+    <PC>PC[11:9]</PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[10;9;16;13:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:16]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD007</CODE>
+    <Numero>6691DTO</Numero>
+    <Nom>Ndour</Nom>
+    <Prénom>Karin</Prénom>
+    <Date.de.naissance>2007-07-07</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[10;14;9;11:17]  </MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[8;13:13] </FRANCAIS>
+    <MOyFR>10.5</MOyFR>
+    <ANGLAIS>Anglais[18;5:15]  </ANGLAIS>
+    <MOyAnglais>11.5</MOyAnglais>
+    <PC>PC[7;11:9]</PC>
+    <MOyPC>9</MOyPC>
+    <SVT>SVT[15;11;11:12] </SVT>
+    <MOySVT>12.3333333333333</MOySVT>
+    <HG>HG[6:16]  </HG>
+    <MOyHG>6</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD007</CODE>
+    <Numero>8YM0304</Numero>
+    <Nom>Kibinda</Nom>
+    <Prénom>Iniess</Prénom>
+    <Date.de.naissance>2015-08-15</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[10;11:15] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[7;9;8:13] </FRANCAIS>
+    <MOyFR>8</MOyFR>
+    <ANGLAIS>Anglais[10;5;9:15] </ANGLAIS>
+    <MOyAnglais>8</MOyAnglais>
+    <PC>PC[10:11]  </PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[12;11;16;8:12]  </SVT>
+    <MOySVT>11.75</MOySVT>
+    <HG>HG[10:10]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD22</CODE>
+    <Numero>PONAAC0</Numero>
+    <Nom>Tine</Nom>
+    <Prénom>Jean</Prénom>
+    <Date.de.naissance>2018-05-18</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>   Math[12;14;5;11:13]   </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[14;12:13]  </FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>Anglais[12;8:15]  </ANGLAIS>
+    <MOyAnglais>10</MOyAnglais>
+    <PC>PC[11:9]</PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[10;9;16;13:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:16]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD22</CODE>
+    <Numero>27WERUG</Numero>
+    <Nom>Fall</Nom>
+    <Prénom>Ouley</Prénom>
+    <Date.de.naissance>2016-11-16</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>   Math[02;10;5;11:13]   </MATH>
+    <MOyMATH>7</MOyMATH>
+    <FRANCAIS>Francais[14;11:13]  </FRANCAIS>
+    <MOyFR>12.5</MOyFR>
+    <ANGLAIS>Anglais[03;8:10]  </ANGLAIS>
+    <MOyAnglais>5.5</MOyAnglais>
+    <PC>PC[11:19]</PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:10]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[11:15]</HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD22</CODE>
+    <Numero>HDCB2G7</Numero>
+    <Nom>Ndaw</Nom>
+    <Prénom>Ousmane</Prénom>
+    <Date.de.naissance>2014-08-14</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>   Math[12;14;5;11:03]   </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[14;11:13]  </FRANCAIS>
+    <MOyFR>12.5</MOyFR>
+    <ANGLAIS>Anglais[13;8:05]  </ANGLAIS>
+    <MOyAnglais>10.5</MOyAnglais>
+    <PC>PC[11:19]</PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;19;16;11:19]  </SVT>
+    <MOySVT>14.5</MOySVT>
+    <HG>HG[11:10]</HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD22</CODE>
+    <Numero>GC4BDQ7</Numero>
+    <Nom>Sarr</Nom>
+    <Prénom>Oumi</Prénom>
+    <Date.de.naissance>2017-06-17</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[10;14;5;11;15:17] </MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[16;11:13]  </FRANCAIS>
+    <MOyFR>13.5</MOyFR>
+    <ANGLAIS>Anglais[13;5:15]</ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;14;11:12] </SVT>
+    <MOySVT>11.5</MOySVT>
+    <HG>HG[15:11]  </HG>
+    <MOyHG>15</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD22</CODE>
+    <Numero>BK63HBS</Numero>
+    <Nom>Gueye</Nom>
+    <Prénom>Astou</Prénom>
+    <Date.de.naissance>2028-02-28</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[10;14;9;11:17]  </MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[8;13:13] </FRANCAIS>
+    <MOyFR>10.5</MOyFR>
+    <ANGLAIS>Anglais[18;5:15]  </ANGLAIS>
+    <MOyAnglais>11.5</MOyAnglais>
+    <PC>PC[7;11:9]</PC>
+    <MOyPC>9</MOyPC>
+    <SVT>SVT[15;11;11:12] </SVT>
+    <MOySVT>12.3333333333333</MOySVT>
+    <HG>HG[6:16]  </HG>
+    <MOyHG>6</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ABD009</CODE>
+    <Numero>SDFTY34</Numero>
+    <Nom>Senir</Nom>
+    <Prénom>Mbol</Prénom>
+    <Date.de.naissance>2024-02-24</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>Math[1;5:8] </MATH>
+    <MOyMATH>3</MOyMATH>
+    <FRANCAIS>Francais[10;9;18:10] </FRANCAIS>
+    <MOyFR>12.3333333333333</MOyFR>
+    <ANGLAIS>Anglais[10;9;9:15] </ANGLAIS>
+    <MOyAnglais>9.33333333333333</MOyAnglais>
+    <PC>PC[17:11] </PC>
+    <MOyPC>17</MOyPC>
+    <SVT>SVT[10;20;16;10:9] </SVT>
+    <MOySVT>14</MOySVT>
+    <HG>HG[6:10]</HG>
+    <MOyHG>6</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ABD009</CODE>
+    <Numero>ZRDFD4S</Numero>
+    <Nom>Ndiareme</Nom>
+    <Prénom>Sylla</Prénom>
+    <Date.de.naissance>2003-09-03</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[1;4:15] </MATH>
+    <MOyMATH>2.5</MOyMATH>
+    <FRANCAIS>Francais[0;19;8:10] </FRANCAIS>
+    <MOyFR>9</MOyFR>
+    <ANGLAIS>Anglais[2;19;1:5] </ANGLAIS>
+    <MOyAnglais>7.33333333333333</MOyAnglais>
+    <PC>PC[10:11] </PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[10;20;16;10:9] </SVT>
+    <MOySVT>14</MOySVT>
+    <HG>HG[9:1]</HG>
+    <MOyHG>9</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ABD009</CODE>
+    <Numero>DFGE67T</Numero>
+    <Nom>Mbor</Nom>
+    <Prénom>Tounkho</Prénom>
+    <Date.de.naissance>2017-10-17</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[10;4:5] </MATH>
+    <MOyMATH>7</MOyMATH>
+    <FRANCAIS>Francais[12;19;18:10] </FRANCAIS>
+    <MOyFR>16.3333333333333</MOyFR>
+    <ANGLAIS>Anglais[10;9;9:4] </ANGLAIS>
+    <MOyAnglais>9.33333333333333</MOyAnglais>
+    <PC>PC[10:11] </PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[10;10;8;10:9] </SVT>
+    <MOySVT>9.5</MOySVT>
+    <HG>HG[9:17]</HG>
+    <MOyHG>9</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ABD009</CODE>
+    <Numero>56GFSE6</Numero>
+    <Nom>Awa</Nom>
+    <Prénom>Samak&#xE9;</Prénom>
+    <Date.de.naissance>2030-09-30</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[1;4:7] </MATH>
+    <MOyMATH>2.5</MOyMATH>
+    <FRANCAIS>Francais[1;9;18:10] </FRANCAIS>
+    <MOyFR>9.33333333333333</MOyFR>
+    <ANGLAIS>Anglais[10;9;9:9] </ANGLAIS>
+    <MOyAnglais>9.33333333333333</MOyAnglais>
+    <PC>PC[10:11]  </PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[10;20;16;10:9]  </SVT>
+    <MOySVT>14</MOySVT>
+    <HG>HG[9:10]</HG>
+    <MOyHG>9</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ABD009</CODE>
+    <Numero>RTGHSDG</Numero>
+    <Nom>Ndol</Nom>
+    <Prénom>Gueye</Prénom>
+    <Date.de.naissance>2030-09-30</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[10;4:15] </MATH>
+    <MOyMATH>7</MOyMATH>
+    <FRANCAIS>Francais[11;1;17:10] </FRANCAIS>
+    <MOyFR>9.66666666666667</MOyFR>
+    <ANGLAIS>Anglais[8;9;5:14] </ANGLAIS>
+    <MOyAnglais>7.33333333333333</MOyAnglais>
+    <PC>PC[17:11]  </PC>
+    <MOyPC>17</MOyPC>
+    <SVT>SVT[15;10;6;8:5]  </SVT>
+    <MOySVT>9.75</MOySVT>
+    <HG>HG[9:16]</HG>
+    <MOyHG>9</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AFD006</CODE>
+    <Numero>2022HEC</Numero>
+    <Nom>Sylla</Nom>
+    <Prénom>Gallas</Prénom>
+    <Date.de.naissance>2002-03-02</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[09;15:19]</MATH>
+    <MOyMATH>12</MOyMATH>
+    <FRANCAIS>Fran&#xE7;ais[10;12:13]</FRANCAIS>
+    <MOyFR>11</MOyFR>
+    <ANGLAIS>Anglais[18;14:19]</ANGLAIS>
+    <MOyAnglais>16</MOyAnglais>
+    <PC>PC[09;10:12]</PC>
+    <MOyPC>9.5</MOyPC>
+    <SVT>SVT[03;11:16]</SVT>
+    <MOySVT>7</MOySVT>
+    <HG>HG[12:14]</HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AFD006</CODE>
+    <Numero>2017ERT</Numero>
+    <Nom>Mantane</Nom>
+    <Prénom>Elisabeth</Prénom>
+    <Date.de.naissance>2003-04-03</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[10;11:15] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[7;12;8:13] </FRANCAIS>
+    <MOyFR>9</MOyFR>
+    <ANGLAIS>Anglais[13;5;9:15] </ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[11:9] </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12] </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:13]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AFD006</CODE>
+    <Numero>2014TGR</Numero>
+    <Nom>Mendy</Nom>
+    <Prénom>Marcelin</Prénom>
+    <Date.de.naissance>2012-11-12</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AFD006</CODE>
+    <Numero>2020DFH</Numero>
+    <Nom>Ndiaye</Nom>
+    <Prénom>Fatah</Prénom>
+    <Date.de.naissance>2023-08-23</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH> Math[12;14;5;11:13] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[14;12:13] </FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>Anglais[12;8:15] </ANGLAIS>
+    <MOyAnglais>10</MOyAnglais>
+    <PC>PC[11:9]</PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[10;9;16;13:12] </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:16]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AFD006</CODE>
+    <Numero>2018JKH</Numero>
+    <Nom>Ndiaye</Nom>
+    <Prénom>Zeyna</Prénom>
+    <Date.de.naissance>2023-06-23</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[13;11:13] </MATH>
+    <MOyMATH>12</MOyMATH>
+    <FRANCAIS>Francais[12;14:14]  </FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>Anglais[11;12;11:20</ANGLAIS>
+    <MOyAnglais>11.3333333333333</MOyAnglais>
+    <PC>PC[13;19:14]  </PC>
+    <MOyPC>16</MOyPC>
+    <SVT>SVT[15;19:15] </SVT>
+    <MOySVT>17</MOySVT>
+    <HG>HG[10;18:13]  </HG>
+    <MOyHG>14</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AKH014</CODE>
+    <Numero>2020UT6</Numero>
+    <Nom>Siharaj</Nom>
+    <Prénom>Sorphaka</Prénom>
+    <Date.de.naissance>2011-09-11</Date.de.naissance>
+    <Classe>6emeB</Classe>
+    <MATH>Math[14;12:15] </MATH>
+    <MOyMATH>13</MOyMATH>
+    <FRANCAIS>Francais[18;06:14] </FRANCAIS>
+    <MOyFR>12</MOyFR>
+    <ANGLAIS>Anglais[15;12:12] </ANGLAIS>
+    <MOyAnglais>13.5</MOyAnglais>
+    <PC>PC[18;13:07] </PC>
+    <MOyPC>15.5</MOyPC>
+    <SVT>SVT[11;19:12] </SVT>
+    <MOySVT>15</MOySVT>
+    <HG>HG[13;15:12]</HG>
+    <MOyHG>14</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AKH014</CODE>
+    <Numero>2021IJ3</Numero>
+    <Nom>Lefranc</Nom>
+    <Prénom>Lydie</Prénom>
+    <Date.de.naissance>2004-06-04</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AKH014</CODE>
+    <Numero>1992I0E</Numero>
+    <Nom>Mahmoud</Nom>
+    <Prénom>Abderrahman</Prénom>
+    <Date.de.naissance>2012-12-12</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[10;11:15] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[7;12;8:13] </FRANCAIS>
+    <MOyFR>9</MOyFR>
+    <ANGLAIS>Anglais[13;5;9:15] </ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[11:9] </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12] </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:13]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AKH014</CODE>
+    <Numero>20L6TRA</Numero>
+    <Nom>Mimouni</Nom>
+    <Prénom>Mimouni</Prénom>
+    <Date.de.naissance>2012-07-12</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AKH014</CODE>
+    <Numero>9OIM76T</Numero>
+    <Nom>Galea</Nom>
+    <Prénom>Emilie</Prénom>
+    <Date.de.naissance>2004-07-04</Date.de.naissance>
+    <Classe>5emeA</Classe>
+    <MATH>MATH[18;14;20]</MATH>
+    <MOyMATH>17.3333333333333</MOyMATH>
+    <FRANCAIS>FRAN&#xC7;AIS[10;11:14]</FRANCAIS>
+    <MOyFR>10.5</MOyFR>
+    <ANGLAIS>ANGLAIS[11;11:20]</ANGLAIS>
+    <MOyAnglais>11</MOyAnglais>
+    <PC>PC[12;13:15]</PC>
+    <MOyPC>12.5</MOyPC>
+    <SVT>SVT[10;13:16]</SVT>
+    <MOySVT>11.5</MOySVT>
+    <HG>HG[10;12;14]</HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AKH014</CODE>
+    <Numero>30NB45E</Numero>
+    <Nom>Hamama</Nom>
+    <Prénom>Mavel</Prénom>
+    <Date.de.naissance>2007-01-07</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>MATH[11;14;20]</MATH>
+    <MOyMATH>15</MOyMATH>
+    <FRANCAIS>FRAN&#xC7;AIS[10;11:14]</FRANCAIS>
+    <MOyFR>10.5</MOyFR>
+    <ANGLAIS>ANGLAIS[11;11:20]</ANGLAIS>
+    <MOyAnglais>11</MOyAnglais>
+    <PC>PC[12;13:15]</PC>
+    <MOyPC>12.5</MOyPC>
+    <SVT>SVT[10;13:16]</SVT>
+    <MOySVT>11.5</MOySVT>
+    <HG>HG[10;12;14]</HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ALT020</CODE>
+    <Numero>CIDIE01</Numero>
+    <Nom>Cisse</Nom>
+    <Prénom>Di&#xE9;gane</Prénom>
+    <Date.de.naissance>2002-05-02</Date.de.naissance>
+    <Classe>5emeA</Classe>
+    <MATH>MATH[15;17:20]</MATH>
+    <MOyMATH>16</MOyMATH>
+    <FRANCAIS>FRANCAIS[06;11:09]</FRANCAIS>
+    <MOyFR>8.5</MOyFR>
+    <ANGLAIS>ANGLAIS[05;12:15]</ANGLAIS>
+    <MOyAnglais>8.5</MOyAnglais>
+    <PC>PC[15;12:15]</PC>
+    <MOyPC>13.5</MOyPC>
+    <SVT>SVT[11;13:10]</SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[01;15:18]</HG>
+    <MOyHG>8</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ALT020</CODE>
+    <Numero>MN45LD5</Numero>
+    <Nom>Senghor</Nom>
+    <Prénom>Mbegane</Prénom>
+    <Date.de.naissance>2012-05-12</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>MATH[19;04:08]</MATH>
+    <MOyMATH>11.5</MOyMATH>
+    <FRANCAIS>FRANCAIS[19;17:11]</FRANCAIS>
+    <MOyFR>18</MOyFR>
+    <ANGLAIS>ANGLAIS[13;17:14]</ANGLAIS>
+    <MOyAnglais>15</MOyAnglais>
+    <PC>PC[07;13:09]</PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[12;05:16]</SVT>
+    <MOySVT>8.5</MOySVT>
+    <HG>HG[15;11:12]</HG>
+    <MOyHG>13</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ALT020</CODE>
+    <Numero>KF578FG</Numero>
+    <Nom>Mara</Nom>
+    <Prénom>Souma</Prénom>
+    <Date.de.naissance>2017-11-17</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>MATH[11;14:16]</MATH>
+    <MOyMATH>12.5</MOyMATH>
+    <FRANCAIS>FRANCAIS[16;11:09]</FRANCAIS>
+    <MOyFR>13.5</MOyFR>
+    <ANGLAIS>ANGLAIS[11;06:15]</ANGLAIS>
+    <MOyAnglais>8.5</MOyAnglais>
+    <PC>PC[14;12:17]</PC>
+    <MOyPC>13</MOyPC>
+    <SVT>SVT[07;16:20]</SVT>
+    <MOySVT>11.5</MOySVT>
+    <HG>HG[08;16:10]</HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ALT020</CODE>
+    <Numero>JRO&#xD9;457</Numero>
+    <Nom>Condoul</Nom>
+    <Prénom>Sangoul</Prénom>
+    <Date.de.naissance>2007-06-07</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>MATH[15;10:19]</MATH>
+    <MOyMATH>12.5</MOyMATH>
+    <FRANCAIS>FRANCAIS[15;20:11]</FRANCAIS>
+    <MOyFR>17.5</MOyFR>
+    <ANGLAIS>ANGLAIS[15;02:16]</ANGLAIS>
+    <MOyAnglais>8.5</MOyAnglais>
+    <PC>PC[16;13:10]</PC>
+    <MOyPC>14.5</MOyPC>
+    <SVT>SVT[16;13:19]</SVT>
+    <MOySVT>14.5</MOySVT>
+    <HG>HG[12;13:11]</HG>
+    <MOyHG>12.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ALT020</CODE>
+    <Numero>VF14HGZ</Numero>
+    <Nom>Tambedou</Nom>
+    <Prénom>Nioukh</Prénom>
+    <Date.de.naissance>2018-12-18</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>MATH[10;12:11]</MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>FRANCAIS[16;11:19]</FRANCAIS>
+    <MOyFR>13.5</MOyFR>
+    <ANGLAIS>ANGLAIS[11;16:15]</ANGLAIS>
+    <MOyAnglais>13.5</MOyAnglais>
+    <PC>PC[15;05:09]</PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[05;07:11]</SVT>
+    <MOySVT>6</MOySVT>
+    <HG>HG[11;10:18]</HG>
+    <MOyHG>10.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ALT020</CODE>
+    <Numero>RTOP15K</Numero>
+    <Nom>Sarr</Nom>
+    <Prénom>Mbissine</Prénom>
+    <Date.de.naissance>2001-12-01</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>MATH[16;16:15]</MATH>
+    <MOyMATH>16</MOyMATH>
+    <FRANCAIS>FRANCAIS[11;11:16]</FRANCAIS>
+    <MOyFR>11</MOyFR>
+    <ANGLAIS>ANGLAIS[15;14:15]</ANGLAIS>
+    <MOyAnglais>14.5</MOyAnglais>
+    <PC>PC[10;14:18]</PC>
+    <MOyPC>12</MOyPC>
+    <SVT>SVT[10;13:16]</SVT>
+    <MOySVT>11.5</MOySVT>
+    <HG>HG[19;16:12]</HG>
+    <MOyHG>17.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ALT020</CODE>
+    <Numero>HGKE145</Numero>
+    <Nom>Deme</Nom>
+    <Prénom>Ndew</Prénom>
+    <Date.de.naissance>2015-02-15</Date.de.naissance>
+    <Classe>6emeB</Classe>
+    <MATH>MATH[15;15:16]</MATH>
+    <MOyMATH>15</MOyMATH>
+    <FRANCAIS>FRANCAIS[16;13:14]</FRANCAIS>
+    <MOyFR>14.5</MOyFR>
+    <ANGLAIS>ANGLAIS[12;10:11]</ANGLAIS>
+    <MOyAnglais>11</MOyAnglais>
+    <PC>PC[19;12:14]</PC>
+    <MOyPC>15.5</MOyPC>
+    <SVT>SVT[17;14:15]</SVT>
+    <MOySVT>15.5</MOySVT>
+    <HG>HG[13;12:14]</HG>
+    <MOyHG>12.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ALT020</CODE>
+    <Numero>54BFH54</Numero>
+    <Nom>Koita</Nom>
+    <Prénom>Fatou</Prénom>
+    <Date.de.naissance>2015-11-15</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>MATH[14;17:16]</MATH>
+    <MOyMATH>15.5</MOyMATH>
+    <FRANCAIS>FRANCAIS[10;11:11]</FRANCAIS>
+    <MOyFR>10.5</MOyFR>
+    <ANGLAIS>ANGLAIS[13;19:16]</ANGLAIS>
+    <MOyAnglais>16</MOyAnglais>
+    <PC>PC[15;16:19]</PC>
+    <MOyPC>15.5</MOyPC>
+    <SVT>SVT[15;19:13]</SVT>
+    <MOySVT>17</MOySVT>
+    <HG>HG[13;14:11]</HG>
+    <MOyHG>13.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ALT020</CODE>
+    <Numero>DF85FUJ</Numero>
+    <Nom>Labou</Nom>
+    <Prénom>Pon</Prénom>
+    <Date.de.naissance>2017-06-17</Date.de.naissance>
+    <Classe>5emeA</Classe>
+    <MATH>MATH[15;17:20]</MATH>
+    <MOyMATH>16</MOyMATH>
+    <FRANCAIS>FRANCAIS[16;11:19]</FRANCAIS>
+    <MOyFR>13.5</MOyFR>
+    <ANGLAIS>ANGLAIS[15;12:15]</ANGLAIS>
+    <MOyAnglais>13.5</MOyAnglais>
+    <PC>PC[18;17:05]</PC>
+    <MOyPC>17.5</MOyPC>
+    <SVT>SVT[11;09:13]</SVT>
+    <MOySVT>10</MOySVT>
+    <HG>HG[11;15:18]</HG>
+    <MOyHG>13</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMB001</CODE>
+    <Numero>12889HI</Numero>
+    <Nom>Camara</Nom>
+    <Prénom>Kamou</Prénom>
+    <Date.de.naissance>2003-01-03</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>MATH[12;14;20]</MATH>
+    <MOyMATH>15.3333333333333</MOyMATH>
+    <FRANCAIS>FRAN&#xC7;AIS[10;11:14]</FRANCAIS>
+    <MOyFR>10.5</MOyFR>
+    <ANGLAIS>ANGLAIS[11;11:20]</ANGLAIS>
+    <MOyAnglais>11</MOyAnglais>
+    <PC>PC[12;13:15]</PC>
+    <MOyPC>12.5</MOyPC>
+    <SVT>SVT[10;13:16]</SVT>
+    <MOySVT>11.5</MOySVT>
+    <HG>HG[10;12;14]</HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMB001</CODE>
+    <Numero>19937HH</Numero>
+    <Nom>Jann</Nom>
+    <Prénom>Kabou</Prénom>
+    <Date.de.naissance>2008-01-08</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>MATH[17;14;20]</MATH>
+    <MOyMATH>17</MOyMATH>
+    <FRANCAIS>FRAN&#xC7;AIS[10;11:14]</FRANCAIS>
+    <MOyFR>10.5</MOyFR>
+    <ANGLAIS>ANGLAIS[11;11:20]</ANGLAIS>
+    <MOyAnglais>11</MOyAnglais>
+    <PC>PC[12;13:15]</PC>
+    <MOyPC>12.5</MOyPC>
+    <SVT>SVT[10;13:16]</SVT>
+    <MOySVT>11.5</MOySVT>
+    <HG>HG[10;12;14]</HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMD013</CODE>
+    <Numero>E7812Z3</Numero>
+    <Nom>Diop</Nom>
+    <Prénom>Aly</Prénom>
+    <Date.de.naissance>2012-04-12</Date.de.naissance>
+    <Classe>5emeA</Classe>
+    <MATH>Math[14;12;10:12] </MATH>
+    <MOyMATH>12</MOyMATH>
+    <FRANCAIS>Francais[14:15]  </FRANCAIS>
+    <MOyFR>14</MOyFR>
+    <ANGLAIS>Anglais[13;10:11]</ANGLAIS>
+    <MOyAnglais>11.5</MOyAnglais>
+    <PC>PC[12;9:12]  </PC>
+    <MOyPC>10.5</MOyPC>
+    <SVT>SVT[16:17] </SVT>
+    <MOySVT>16</MOySVT>
+    <HG>HG[12;16:14]  </HG>
+    <MOyHG>14</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMD013</CODE>
+    <Numero>Z781263</Numero>
+    <Nom>Faye</Nom>
+    <Prénom>Fatou</Prénom>
+    <Date.de.naissance>2012-04-12</Date.de.naissance>
+    <Classe>6emeB</Classe>
+    <MATH>Math[13;12:13] </MATH>
+    <MOyMATH>12.5</MOyMATH>
+    <FRANCAIS>Francais[04:10]  </FRANCAIS>
+    <MOyFR>4</MOyFR>
+    <ANGLAIS>Anglais[03;13:15]</ANGLAIS>
+    <MOyAnglais>8</MOyAnglais>
+    <PC>PC[10;9:19]  </PC>
+    <MOyPC>9.5</MOyPC>
+    <SVT>SVT[12;19:07] </SVT>
+    <MOySVT>15.5</MOySVT>
+    <HG>HG[12;10:14]  </HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMD013</CODE>
+    <Numero>Z7812Z5</Numero>
+    <Nom>Dioum</Nom>
+    <Prénom>Alioune</Prénom>
+    <Date.de.naissance>2012-12-12</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH> Math[12;14;5;11:13] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[4;11:13] </FRANCAIS>
+    <MOyFR>7.5</MOyFR>
+    <ANGLAIS>Anglais[13;8:15] </ANGLAIS>
+    <MOyAnglais>10.5</MOyAnglais>
+    <PC>PC[11:9]</PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12] </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[11:13]</HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMD013</CODE>
+    <Numero>Z7812Z9</Numero>
+    <Nom>Ndiaye</Nom>
+    <Prénom>Moussa</Prénom>
+    <Date.de.naissance>2012-03-12</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[10;11:15] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[7;9;8:13] </FRANCAIS>
+    <MOyFR>8</MOyFR>
+    <ANGLAIS>Anglais[10;5;9:15] </ANGLAIS>
+    <MOyAnglais>8</MOyAnglais>
+    <PC>PC[10:11] </PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[12;11;16;8:12] </SVT>
+    <MOySVT>11.75</MOySVT>
+    <HG>HG[10:10]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMD013</CODE>
+    <Numero>Z7852Z3</Numero>
+    <Nom>Fall</Nom>
+    <Prénom>Moustapha</Prénom>
+    <Date.de.naissance>2009-09-09</Date.de.naissance>
+    <Classe>6emeB</Classe>
+    <MATH>Math[10;11:15] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[7;9;8:13] </FRANCAIS>
+    <MOyFR>8</MOyFR>
+    <ANGLAIS>Anglais[10;5;9:15] </ANGLAIS>
+    <MOyAnglais>8</MOyAnglais>
+    <PC>PC[10:11] </PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[12;11;16;8:12] </SVT>
+    <MOySVT>11.75</MOySVT>
+    <HG>HG[10:10]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMD013</CODE>
+    <Numero>Z7812Z7</Numero>
+    <Nom>Mbaye</Nom>
+    <Prénom>Idrissa</Prénom>
+    <Date.de.naissance>2015-05-15</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[10;12;19;11:16]  </MATH>
+    <MOyMATH>13</MOyMATH>
+    <FRANCAIS>Francais[18;11:15] </FRANCAIS>
+    <MOyFR>14.5</MOyFR>
+    <ANGLAIS>Anglais[8;15:15]  </ANGLAIS>
+    <MOyAnglais>11.5</MOyAnglais>
+    <PC>PC[7;11;09:9]</PC>
+    <MOyPC>9</MOyPC>
+    <SVT>SVT[15;11;11:12] </SVT>
+    <MOySVT>12.3333333333333</MOySVT>
+    <HG>HG[6;14:16]  </HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMD013</CODE>
+    <Numero>Z7312Z3</Numero>
+    <Nom>Tine</Nom>
+    <Prénom>Seydou</Prénom>
+    <Date.de.naissance>2003-09-03</Date.de.naissance>
+    <Classe>5emeA</Classe>
+    <MATH>Math[10;11:15] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[7;12;8:13] </FRANCAIS>
+    <MOyFR>9</MOyFR>
+    <ANGLAIS>Anglais[13;5;9:15] </ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:13]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMD013</CODE>
+    <Numero>Z7832Z3</Numero>
+    <Nom>Sane</Nom>
+    <Prénom>Moussa</Prénom>
+    <Date.de.naissance>2029-12-29</Date.de.naissance>
+    <Classe>5emeA</Classe>
+    <MATH>Math[11;11:12] </MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[11;15:12]</FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>ANGLAIS[10;14:15]  </ANGLAIS>
+    <MOyAnglais>12</MOyAnglais>
+    <PC>PC[11;11:12]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[11;1:14] </SVT>
+    <MOySVT>6</MOySVT>
+    <HG>HG[11;13:14]  </HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMD013</CODE>
+    <Numero>Z8812Z3</Numero>
+    <Nom>Toure</Nom>
+    <Prénom>Oumar</Prénom>
+    <Date.de.naissance>2029-11-29</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[9;10;5;10;13:12] </MATH>
+    <MOyMATH>9.4</MOyMATH>
+    <FRANCAIS>Francais[10;11:13]  </FRANCAIS>
+    <MOyFR>10.5</MOyFR>
+    <ANGLAIS>Anglais[11;12:15]</ANGLAIS>
+    <MOyAnglais>11.5</MOyAnglais>
+    <PC>PC[12:19]  </PC>
+    <MOyPC>12</MOyPC>
+    <SVT>SVT[15;9;16;11:12] </SVT>
+    <MOySVT>12.75</MOySVT>
+    <HG>HG[13:13]  </HG>
+    <MOyHG>13</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMG015</CODE>
+    <Numero>SONA001</Numero>
+    <Nom>Faye</Nom>
+    <Prénom>Fatou</Prénom>
+    <Date.de.naissance>2012-04-12</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07]  </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10]</SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMG015</CODE>
+    <Numero>SONA002</Numero>
+    <Nom>Gaye</Nom>
+    <Prénom>Thierno</Prénom>
+    <Date.de.naissance>2014-02-14</Date.de.naissance>
+    <Classe>6emeB</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMG015</CODE>
+    <Numero>SONA003</Numero>
+    <Nom>Diop</Nom>
+    <Prénom>Youssou</Prénom>
+    <Date.de.naissance>2012-06-12</Date.de.naissance>
+    <Classe>5emeA</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMG015</CODE>
+    <Numero>SONA004</Numero>
+    <Nom>Wagne</Nom>
+    <Prénom>Petit</Prénom>
+    <Date.de.naissance>2012-07-12</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMG015</CODE>
+    <Numero>SONA005</Numero>
+    <Nom>Cisse</Nom>
+    <Prénom>Galaye</Prénom>
+    <Date.de.naissance>2004-03-04</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMG015</CODE>
+    <Numero>SONA006</Numero>
+    <Nom>Gomis</Nom>
+    <Prénom>Pata</Prénom>
+    <Date.de.naissance>2001-06-01</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMG015</CODE>
+    <Numero>SONA007</Numero>
+    <Nom>Sane </Nom>
+    <Prénom>Balla</Prénom>
+    <Date.de.naissance>2009-09-09</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMG015</CODE>
+    <Numero>SONA008</Numero>
+    <Nom>Sagna</Nom>
+    <Prénom>Sadio</Prénom>
+    <Date.de.naissance>2006-06-06</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMG015</CODE>
+    <Numero>SONA009</Numero>
+    <Nom>Niang</Nom>
+    <Prénom>Mareme</Prénom>
+    <Date.de.naissance>2012-12-12</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMG015</CODE>
+    <Numero>SONA010</Numero>
+    <Nom>Fall</Nom>
+    <Prénom>Khady</Prénom>
+    <Date.de.naissance>2007-06-07</Date.de.naissance>
+    <Classe>6emeB</Classe>
+    <MATH>Math[04;03:05] </MATH>
+    <MOyMATH>3.5</MOyMATH>
+    <FRANCAIS>Francais[15;16:14] </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[15;16:17] </ANGLAIS>
+    <MOyAnglais>15.5</MOyAnglais>
+    <PC>PC[04;03:07] </PC>
+    <MOyPC>3.5</MOyPC>
+    <SVT>SVT[12;09:10] </SVT>
+    <MOySVT>10.5</MOySVT>
+    <HG>HG[16;15:17]</HG>
+    <MOyHG>15.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMK016</CODE>
+    <Numero>A7723ML</Numero>
+    <Nom>Kane</Nom>
+    <Prénom>Moussa</Prénom>
+    <Date.de.naissance>2029-12-29</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[14;12;10:12] </MATH>
+    <MOyMATH>12</MOyMATH>
+    <FRANCAIS>Francais[14:15]  </FRANCAIS>
+    <MOyFR>14</MOyFR>
+    <ANGLAIS>Anglais[13;10:11]</ANGLAIS>
+    <MOyAnglais>11.5</MOyAnglais>
+    <PC>PC[12;9:12]  </PC>
+    <MOyPC>10.5</MOyPC>
+    <SVT>SVT[16:17] </SVT>
+    <MOySVT>16</MOySVT>
+    <HG>HG[12;16:14]  </HG>
+    <MOyHG>14</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMK016</CODE>
+    <Numero>Z7812Z3</Numero>
+    <Nom>Konimba</Nom>
+    <Prénom>Mousona</Prénom>
+    <Date.de.naissance>2012-12-12</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[12;10:19] </MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[14;15;12:19]  </FRANCAIS>
+    <MOyFR>13.6666666666667</MOyFR>
+    <ANGLAIS>Anglais[18:11]</ANGLAIS>
+    <MOyAnglais>18</MOyAnglais>
+    <PC>PC[12:12]  </PC>
+    <MOyPC>12</MOyPC>
+    <SVT>SVT[16;18:17] </SVT>
+    <MOySVT>17</MOySVT>
+    <HG>HG[18:14]  </HG>
+    <MOyHG>18</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMK016</CODE>
+    <Numero>M770231</Numero>
+    <Nom>Ilimani</Nom>
+    <Prénom>Mustapha</Prénom>
+    <Date.de.naissance>2012-04-12</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[10;12:12] </MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[19; 12:10]  </FRANCAIS>
+    <MOyFR>15.5</MOyFR>
+    <ANGLAIS>Anglais[11;19:18]</ANGLAIS>
+    <MOyAnglais>15</MOyAnglais>
+    <PC>PC[13;19:10]  </PC>
+    <MOyPC>16</MOyPC>
+    <SVT>SVT[11;16:17] </SVT>
+    <MOySVT>13.5</MOySVT>
+    <HG>HG[11;13:19]  </HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMK016</CODE>
+    <Numero>JH23GH3</Numero>
+    <Nom>Loum</Nom>
+    <Prénom>Mamadou</Prénom>
+    <Date.de.naissance>2012-12-12</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[13;12:13] </MATH>
+    <MOyMATH>12.5</MOyMATH>
+    <FRANCAIS>Francais[04:10]  </FRANCAIS>
+    <MOyFR>4</MOyFR>
+    <ANGLAIS>Anglais[03;13:15]</ANGLAIS>
+    <MOyAnglais>8</MOyAnglais>
+    <PC>PC[10;9:19]  </PC>
+    <MOyPC>9.5</MOyPC>
+    <SVT>SVT[12;19:07] </SVT>
+    <MOySVT>15.5</MOySVT>
+    <HG>HG[12;10:14]  </HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMK016</CODE>
+    <Numero>SX34AZ2</Numero>
+    <Nom>Gaye</Nom>
+    <Prénom>Souleyni</Prénom>
+    <Date.de.naissance>2012-03-12</Date.de.naissance>
+    <Classe>6emeB</Classe>
+    <MATH>Math[10;19;10:10] </MATH>
+    <MOyMATH>13</MOyMATH>
+    <FRANCAIS>Francais[10:13]  </FRANCAIS>
+    <MOyFR>10</MOyFR>
+    <ANGLAIS>Anglais[10;11:12]</ANGLAIS>
+    <MOyAnglais>10.5</MOyAnglais>
+    <PC>PC[10;9:10]  </PC>
+    <MOyPC>9.5</MOyPC>
+    <SVT>SVT[16;10:17] </SVT>
+    <MOySVT>13</MOySVT>
+    <HG>HG[02;16:13]  </HG>
+    <MOyHG>9</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMK016</CODE>
+    <Numero>E9D45JJ</Numero>
+    <Nom>Hann</Nom>
+    <Prénom>Cheikh</Prénom>
+    <Date.de.naissance>2009-09-09</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[13;11:13] </MATH>
+    <MOyMATH>12</MOyMATH>
+    <FRANCAIS>Francais[12;14:14]  </FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>Anglais[11;12;11:20]</ANGLAIS>
+    <MOyAnglais>11.3333333333333</MOyAnglais>
+    <PC>PC[13;19:14]  </PC>
+    <MOyPC>16</MOyPC>
+    <SVT>SVT[15;19:15] </SVT>
+    <MOySVT>17</MOySVT>
+    <HG>HG[10;18:13]  </HG>
+    <MOyHG>14</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMK016</CODE>
+    <Numero>HIE938J</Numero>
+    <Nom>Kane</Nom>
+    <Prénom>Aliou</Prénom>
+    <Date.de.naissance>2015-05-15</Date.de.naissance>
+    <Classe>6emeB</Classe>
+    <MATH>Math[20;20;20:20] </MATH>
+    <MOyMATH>20</MOyMATH>
+    <FRANCAIS>Francais[14;12:15]  </FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>Anglais[06;13:13]</ANGLAIS>
+    <MOyAnglais>9.5</MOyAnglais>
+    <PC>PC[20;20:20]  </PC>
+    <MOyPC>20</MOyPC>
+    <SVT>SVT[19;19:19] </SVT>
+    <MOySVT>19</MOySVT>
+    <HG>HG[07;01:10]  </HG>
+    <MOyHG>4</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMK016</CODE>
+    <Numero>23JHNB2</Numero>
+    <Nom>Ngimbona</Nom>
+    <Prénom>Charles</Prénom>
+    <Date.de.naissance>2003-09-03</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[11;10;09:11] </MATH>
+    <MOyMATH>10</MOyMATH>
+    <FRANCAIS>Francais[18;19;19:17]  </FRANCAIS>
+    <MOyFR>18.6666666666667</MOyFR>
+    <ANGLAIS>Anglais[19;17:19]</ANGLAIS>
+    <MOyAnglais>18</MOyAnglais>
+    <PC>PC[11;11;9:11]  </PC>
+    <MOyPC>10.3333333333333</MOyPC>
+    <SVT>SVT[01:11] </SVT>
+    <MOySVT>1</MOySVT>
+    <HG>HG[19:19]  </HG>
+    <MOyHG>19</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AMK016</CODE>
+    <Numero>HJ293D4</Numero>
+    <Nom>Ikouna</Nom>
+    <Prénom>Mbalanga</Prénom>
+    <Date.de.naissance>2001-01-01</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[13;12;10:12] </MATH>
+    <MOyMATH>11.6666666666667</MOyMATH>
+    <FRANCAIS>Francais[14:15]  </FRANCAIS>
+    <MOyFR>14</MOyFR>
+    <ANGLAIS>Anglais[13;10:11]</ANGLAIS>
+    <MOyAnglais>11.5</MOyAnglais>
+    <PC>PC[12;9:12]  </PC>
+    <MOyPC>10.5</MOyPC>
+    <SVT>SVT[16:17] </SVT>
+    <MOySVT>16</MOySVT>
+    <HG>HG[12;16:14]  </HG>
+    <MOyHG>14</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AOD010</CODE>
+    <Numero>DKZGS12</Numero>
+    <Nom>Diop</Nom>
+    <Prénom>Ousmane</Prénom>
+    <Date.de.naissance>2002-02-01</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[14;10:12] </MATH>
+    <MOyMATH>12</MOyMATH>
+    <FRANCAIS>Francais[14;14:15]  </FRANCAIS>
+    <MOyFR>14</MOyFR>
+    <ANGLAIS>Anglais[13;10:11]</ANGLAIS>
+    <MOyAnglais>11.5</MOyAnglais>
+    <PC>PC[9:12]  </PC>
+    <MOyPC>9</MOyPC>
+    <SVT>SVT[16;11:17] </SVT>
+    <MOySVT>13.5</MOySVT>
+    <HG>HG[16:14]  </HG>
+    <MOyHG>16</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AOD010</CODE>
+    <Numero>DLEDQDO</Numero>
+    <Nom>Ndiaye</Nom>
+    <Prénom>Abdou</Prénom>
+    <Date.de.naissance>2021-03-21</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[11:16]  </MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[12;13:11]  </FRANCAIS>
+    <MOyFR>12.5</MOyFR>
+    <ANGLAIS>Anglais[11;14:16]</ANGLAIS>
+    <MOyAnglais>12.5</MOyAnglais>
+    <PC>PC[15:18]  </PC>
+    <MOyPC>15</MOyPC>
+    <SVT>SVT[13;14:15] </SVT>
+    <MOySVT>13.5</MOySVT>
+    <HG>HG[11;15:18] </HG>
+    <MOyHG>13</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AOD010</CODE>
+    <Numero>XSDEF12</Numero>
+    <Nom>Gueye</Nom>
+    <Prénom>Fatou</Prénom>
+    <Date.de.naissance>2003-04-03</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>Math[18:19]  </MATH>
+    <MOyMATH>18</MOyMATH>
+    <FRANCAIS>Francais[14;11:4]  </FRANCAIS>
+    <MOyFR>12.5</MOyFR>
+    <ANGLAIS>Anglais[4;8:16]</ANGLAIS>
+    <MOyAnglais>6</MOyAnglais>
+    <PC>PC[10;4:9] </PC>
+    <MOyPC>7</MOyPC>
+    <SVT>SVT[12;10:8]  </SVT>
+    <MOySVT>11</MOySVT>
+    <HG>HG[12:11] </HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AOD010</CODE>
+    <Numero>DEGLAC4</Numero>
+    <Nom>Fall</Nom>
+    <Prénom>Saly</Prénom>
+    <Date.de.naissance>2006-12-06</Date.de.naissance>
+    <Classe>6emeB</Classe>
+    <MATH>Math[11:12]  </MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[11;12:14]  </FRANCAIS>
+    <MOyFR>11.5</MOyFR>
+    <ANGLAIS>Anglais[14;18:1]8</ANGLAIS>
+    <MOyAnglais>16</MOyAnglais>
+    <PC>PC[12;14:10] </PC>
+    <MOyPC>13</MOyPC>
+    <SVT>SVT[14;13:18]  </SVT>
+    <MOySVT>13.5</MOySVT>
+    <HG>HG[13:14] </HG>
+    <MOyHG>13</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AOD010</CODE>
+    <Numero>DZFXML5</Numero>
+    <Nom>Lo</Nom>
+    <Prénom>Amy</Prénom>
+    <Date.de.naissance>2008-03-08</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[11:12]  </MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[11;12:14]  </FRANCAIS>
+    <MOyFR>11.5</MOyFR>
+    <ANGLAIS>Anglais[14;18:1]8</ANGLAIS>
+    <MOyAnglais>16</MOyAnglais>
+    <PC>PC[12;14:10] </PC>
+    <MOyPC>13</MOyPC>
+    <SVT>SVT[14;13:18]  </SVT>
+    <MOySVT>13.5</MOySVT>
+    <HG>HG[13:14] </HG>
+    <MOyHG>13</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AOD010</CODE>
+    <Numero>DZLSWQ7</Numero>
+    <Nom>Sambe</Nom>
+    <Prénom>Salif</Prénom>
+    <Date.de.naissance>2018-03-18</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[14;10:12] </MATH>
+    <MOyMATH>12</MOyMATH>
+    <FRANCAIS>Francais[15;14:18]</FRANCAIS>
+    <MOyFR>14.5</MOyFR>
+    <ANGLAIS>ANGLAIS[10;14:15]  </ANGLAIS>
+    <MOyAnglais>12</MOyAnglais>
+    <PC>PC[14;19:12]  </PC>
+    <MOyPC>16.5</MOyPC>
+    <SVT>SVT[15;16;11:17] </SVT>
+    <MOySVT>14</MOySVT>
+    <HG>HG[12;16:14]  </HG>
+    <MOyHG>14</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AOD010</CODE>
+    <Numero>LFNJESM</Numero>
+    <Nom>Sambou</Nom>
+    <Prénom>Jean</Prénom>
+    <Date.de.naissance>2019-05-19</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[18;16:17] </MATH>
+    <MOyMATH>17</MOyMATH>
+    <FRANCAIS>Francais[13;12:10]</FRANCAIS>
+    <MOyFR>12.5</MOyFR>
+    <ANGLAIS>Anglais[5;9:9]  </ANGLAIS>
+    <MOyAnglais>7</MOyAnglais>
+    <PC>PC[19:20]  </PC>
+    <MOyPC>19</MOyPC>
+    <SVT>SVT[13:15] </SVT>
+    <MOySVT>13</MOySVT>
+    <HG>HG[10:11]  </HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AOD010</CODE>
+    <Numero>JHDHRE8</Numero>
+    <Nom>Sene</Nom>
+    <Prénom>Jeannette</Prénom>
+    <Date.de.naissance>2020-12-20</Date.de.naissance>
+    <Classe>6emeB</Classe>
+    <MATH>Math[11;11:12] </MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[11;15:12]</FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>ANGLAIS[10;14:15]  </ANGLAIS>
+    <MOyAnglais>12</MOyAnglais>
+    <PC>PC[11;11:12]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[11;1:14] </SVT>
+    <MOySVT>6</MOySVT>
+    <HG>HG[11;13:14]  </HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AOD010</CODE>
+    <Numero>LSXNEB0</Numero>
+    <Nom>Gueye</Nom>
+    <Prénom>Modou</Prénom>
+    <Date.de.naissance>2003-01-03</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[18;16:17] </MATH>
+    <MOyMATH>17</MOyMATH>
+    <FRANCAIS>Francais[13;12:10]</FRANCAIS>
+    <MOyFR>12.5</MOyFR>
+    <ANGLAIS>Anglais[5;9:9] </ANGLAIS>
+    <MOyAnglais>7</MOyAnglais>
+    <PC>PC[19:20] </PC>
+    <MOyPC>19</MOyPC>
+    <SVT>SVT[13:15] </SVT>
+    <MOySVT>13</MOySVT>
+    <HG>HG[10:11] </HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ASK017</CODE>
+    <Numero>CMGBDK9</Numero>
+    <Nom>Mendy</Nom>
+    <Prénom>Christelle</Prénom>
+    <Date.de.naissance>2011-10-11</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[14;18:16]</MATH>
+    <MOyMATH>16</MOyMATH>
+    <FRANCAIS>Fran&#xE7;ais[11;09:10]</FRANCAIS>
+    <MOyFR>10</MOyFR>
+    <ANGLAIS>Anglais[13:15]</ANGLAIS>
+    <MOyAnglais>13</MOyAnglais>
+    <PC>PC[17:16]</PC>
+    <MOyPC>17</MOyPC>
+    <SVT>SVT[15:19]</SVT>
+    <MOySVT>15</MOySVT>
+    <HG>HG[08;05:12]</HG>
+    <MOyHG>6.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ASK017</CODE>
+    <Numero>MTBFCA2</Numero>
+    <Nom>Tapsoba</Nom>
+    <Prénom>Mounkoudy</Prénom>
+    <Date.de.naissance>2008-12-08</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>Math[15;18:20]</MATH>
+    <MOyMATH>16.5</MOyMATH>
+    <FRANCAIS>Fran&#xE7;ais[06;09:11]</FRANCAIS>
+    <MOyFR>7.5</MOyFR>
+    <ANGLAIS>Anglais[12;08:10]</ANGLAIS>
+    <MOyAnglais>10</MOyAnglais>
+    <PC>PC[10;17:16]</PC>
+    <MOyPC>13.5</MOyPC>
+    <SVT>SVT[19;15:17]</SVT>
+    <MOySVT>17</MOySVT>
+    <HG>HG[11;14:10]</HG>
+    <MOyHG>12.5</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>ASK017</CODE>
+    <Numero>ABHLMY1</Numero>
+    <Nom>Baobey</Nom>
+    <Prénom>Angelline</Prénom>
+    <Date.de.naissance>2018-03-18</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[18;15:19]</MATH>
+    <MOyMATH>16.5</MOyMATH>
+    <FRANCAIS>Fran&#xE7;ais[15;13:16]</FRANCAIS>
+    <MOyFR>14</MOyFR>
+    <ANGLAIS>Anglais[14;18:15]</ANGLAIS>
+    <MOyAnglais>16</MOyAnglais>
+    <PC>PC[17;12:17]</PC>
+    <MOyPC>14.5</MOyPC>
+    <SVT>SVT[16;10:17]</SVT>
+    <MOySVT>13</MOySVT>
+    <HG>HG[12;10:15]</HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAD008</CODE>
+    <Numero>AF32IBC</Numero>
+    <Nom>Fall</Nom>
+    <Prénom>Ousseyou</Prénom>
+    <Date.de.naissance>2003-07-03</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[13;15:16] </MATH>
+    <MOyMATH>14</MOyMATH>
+    <FRANCAIS>Francais[10;14:13] </FRANCAIS>
+    <MOyFR>12</MOyFR>
+    <ANGLAIS>Anglais[12;9;15:11] </ANGLAIS>
+    <MOyAnglais>12</MOyAnglais>
+    <PC>PC[13:10] </PC>
+    <MOyPC>13</MOyPC>
+    <SVT>SVT[14;9;12:13] </SVT>
+    <MOySVT>11.6666666666667</MOySVT>
+    <HG>HG[13:15]</HG>
+    <MOyHG>13</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAD008</CODE>
+    <Numero>M60GRTL</Numero>
+    <Nom>Tine</Nom>
+    <Prénom>Sokhna</Prénom>
+    <Date.de.naissance>2025-02-25</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[8;13:10] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[10;10:13] </FRANCAIS>
+    <MOyFR>10</MOyFR>
+    <ANGLAIS>Anglais[10;11;9:7] </ANGLAIS>
+    <MOyAnglais>10</MOyAnglais>
+    <PC>PC[10:8] </PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[11;9;10:13] </SVT>
+    <MOySVT>10</MOySVT>
+    <HG>HG[12:10]</HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAD008</CODE>
+    <Numero>QNXKW09</Numero>
+    <Nom>Sine</Nom>
+    <Prénom>Marieme</Prénom>
+    <Date.de.naissance>2029-08-29</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[8;12:9] </MATH>
+    <MOyMATH>10</MOyMATH>
+    <FRANCAIS>Francais[15;10:9] </FRANCAIS>
+    <MOyFR>12.5</MOyFR>
+    <ANGLAIS>Anglais[12;9;12:7] </ANGLAIS>
+    <MOyAnglais>11</MOyAnglais>
+    <PC>PC[11:12] </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[8;11;10:9] </SVT>
+    <MOySVT>9.66666666666667</MOySVT>
+    <HG>HG[10:11]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAD008</CODE>
+    <Numero>G2NXW1L</Numero>
+    <Nom>Diouf</Nom>
+    <Prénom>Moustapha</Prénom>
+    <Date.de.naissance>2005-07-05</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>Math[10;14:12] </MATH>
+    <MOyMATH>12</MOyMATH>
+    <FRANCAIS>Francais[10;12:12] </FRANCAIS>
+    <MOyFR>11</MOyFR>
+    <ANGLAIS>Anglais[9;10:11] </ANGLAIS>
+    <MOyAnglais>9.5</MOyAnglais>
+    <PC>PC[11:12] </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[13;12:15] </SVT>
+    <MOySVT>12.5</MOySVT>
+    <HG>HG[15:10]</HG>
+    <MOyHG>15</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAD008</CODE>
+    <Numero>UPNCG78</Numero>
+    <Nom>Ka</Nom>
+    <Prénom>Aliou</Prénom>
+    <Date.de.naissance>2010-05-10</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[9;10;5;10;13:12] </MATH>
+    <MOyMATH>9.4</MOyMATH>
+    <FRANCAIS>Francais[10;11:13]  </FRANCAIS>
+    <MOyFR>10.5</MOyFR>
+    <ANGLAIS>Anglais[11;12:15]</ANGLAIS>
+    <MOyAnglais>11.5</MOyAnglais>
+    <PC>PC[12:19]  </PC>
+    <MOyPC>12</MOyPC>
+    <SVT>SVT[15;9;16;11:12] </SVT>
+    <MOySVT>12.75</MOySVT>
+    <HG>HG[13:13]  </HG>
+    <MOyHG>13</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAD008</CODE>
+    <Numero>WYI96BT</Numero>
+    <Nom>Diallo</Nom>
+    <Prénom>Seynabou</Prénom>
+    <Date.de.naissance>2016-02-16</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[8;11:9] </MATH>
+    <MOyMATH>9.5</MOyMATH>
+    <FRANCAIS>Francais[12;14:13] </FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>Anglais[12;9:11] </ANGLAIS>
+    <MOyAnglais>10.5</MOyAnglais>
+    <PC>PC[16:12] </PC>
+    <MOyPC>16</MOyPC>
+    <SVT>SVT[14;9;11:14] </SVT>
+    <MOySVT>11.3333333333333</MOySVT>
+    <HG>HG[12:14]</HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAD008</CODE>
+    <Numero>FRTX54U</Numero>
+    <Nom>Ndiaye</Nom>
+    <Prénom>Fatou</Prénom>
+    <Date.de.naissance>2022-07-22</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[12;7:10] </MATH>
+    <MOyMATH>9.5</MOyMATH>
+    <FRANCAIS>Francais[13;14:9] </FRANCAIS>
+    <MOyFR>13.5</MOyFR>
+    <ANGLAIS>Anglais[9;11:12] </ANGLAIS>
+    <MOyAnglais>10</MOyAnglais>
+    <PC>PC[15:12] </PC>
+    <MOyPC>15</MOyPC>
+    <SVT>SVT[11;10;12:13] </SVT>
+    <MOySVT>11</MOySVT>
+    <HG>HG[10:14]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAD008</CODE>
+    <Numero>LJQC67L</Numero>
+    <Nom>Wade</Nom>
+    <Prénom>Astou</Prénom>
+    <Date.de.naissance>2012-12-12</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[13;15:16] </MATH>
+    <MOyMATH>14</MOyMATH>
+    <FRANCAIS>Francais[10;14:13] </FRANCAIS>
+    <MOyFR>12</MOyFR>
+    <ANGLAIS>Anglais[12;9;19:11] </ANGLAIS>
+    <MOyAnglais>13.3333333333333</MOyAnglais>
+    <PC>PC[13:10] </PC>
+    <MOyPC>13</MOyPC>
+    <SVT>SVT[14;9;12:13] </SVT>
+    <MOySVT>11.6666666666667</MOySVT>
+    <HG>HG[11:12]</HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAD008</CODE>
+    <Numero>KFPB32H</Numero>
+    <Nom>Sy</Nom>
+    <Prénom>Adja</Prénom>
+    <Date.de.naissance>2002-08-02</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[10;11:15] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[7;9;8:13] </FRANCAIS>
+    <MOyFR>8</MOyFR>
+    <ANGLAIS>Anglais[10;5;9:15] </ANGLAIS>
+    <MOyAnglais>8</MOyAnglais>
+    <PC>PC[10:11] </PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[12;11;16;8:12] </SVT>
+    <MOySVT>11.75</MOySVT>
+    <HG>HG[10:10]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAF013</CODE>
+    <Numero>GH43RTU</Numero>
+    <Nom>Ndao</Nom>
+    <Prénom>Aram</Prénom>
+    <Date.de.naissance>2016-02-16</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[10;11:15] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[7;12;8:13] </FRANCAIS>
+    <MOyFR>9</MOyFR>
+    <ANGLAIS>Anglais[13;5;9:15] </ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:13]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAF013</CODE>
+    <Numero>PLM56DS</Numero>
+    <Nom>Gomis</Nom>
+    <Prénom>Pipo</Prénom>
+    <Date.de.naissance>2016-03-16</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>Math[8;7:10] </MATH>
+    <MOyMATH>7.5</MOyMATH>
+    <FRANCAIS>Francais[15;12;9:14] </FRANCAIS>
+    <MOyFR>12</MOyFR>
+    <ANGLAIS>Anglais[13;15;19:15] </ANGLAIS>
+    <MOyAnglais>15.6666666666667</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[2;9;16;11:12]  </SVT>
+    <MOySVT>9.5</MOySVT>
+    <HG>HG[10:18]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAF013</CODE>
+    <Numero>GF34KHS</Numero>
+    <Nom>Diouf</Nom>
+    <Prénom>Ousseynou</Prénom>
+    <Date.de.naissance>2003-12-03</Date.de.naissance>
+    <Classe>5emeA</Classe>
+    <MATH>Math[18;17:10] </MATH>
+    <MOyMATH>17.5</MOyMATH>
+    <FRANCAIS>Francais[5;13;9:14] </FRANCAIS>
+    <MOyFR>9</MOyFR>
+    <ANGLAIS>Anglais[12;5;10:14] </ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[17:9]  </PC>
+    <MOyPC>17</MOyPC>
+    <SVT>SVT[12;19;15;11:12]  </SVT>
+    <MOySVT>14.25</MOySVT>
+    <HG>HG[16:18]</HG>
+    <MOyHG>16</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAF013</CODE>
+    <Numero>JHGF7F5</Numero>
+    <Nom>Diop</Nom>
+    <Prénom>Elimane</Prénom>
+    <Date.de.naissance>2012-01-12</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[9;17:10] </MATH>
+    <MOyMATH>13</MOyMATH>
+    <FRANCAIS>Francais[12;13;8:18] </FRANCAIS>
+    <MOyFR>11</MOyFR>
+    <ANGLAIS>Anglais[3;5;10:15] </ANGLAIS>
+    <MOyAnglais>6</MOyAnglais>
+    <PC>PC[17:19]  </PC>
+    <MOyPC>17</MOyPC>
+    <SVT>SVT[12;19;16;13:12]  </SVT>
+    <MOySVT>15</MOySVT>
+    <HG>HG[14:18]</HG>
+    <MOyHG>14</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAF013</CODE>
+    <Numero>RED76BH</Numero>
+    <Nom>Ciss&#xE9;</Nom>
+    <Prénom>Babacar</Prénom>
+    <Date.de.naissance>2003-06-03</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[8;7:10] </MATH>
+    <MOyMATH>7.5</MOyMATH>
+    <FRANCAIS>Francais[15;12;9:14] </FRANCAIS>
+    <MOyFR>12</MOyFR>
+    <ANGLAIS>Anglais[13;15;19:15] </ANGLAIS>
+    <MOyAnglais>15.6666666666667</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[2;9;16;11:12]  </SVT>
+    <MOySVT>9.5</MOySVT>
+    <HG>HG[10:18]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAF013</CODE>
+    <Numero>GF69LBC</Numero>
+    <Nom>Ba</Nom>
+    <Prénom>Abdoulaye</Prénom>
+    <Date.de.naissance>2009-02-09</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[18;17:15] </MATH>
+    <MOyMATH>17.5</MOyMATH>
+    <FRANCAIS>Francais[10;1;9:12] </FRANCAIS>
+    <MOyFR>6.66666666666667</MOyFR>
+    <ANGLAIS>Anglais[10;11;18:15] </ANGLAIS>
+    <MOyAnglais>13</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;13;11:12]  </SVT>
+    <MOySVT>11.25</MOySVT>
+    <HG>HG[12:19]</HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAF013</CODE>
+    <Numero>ML09RDS</Numero>
+    <Nom>Diallo</Nom>
+    <Prénom>Alioune</Prénom>
+    <Date.de.naissance>2008-07-08</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>Math[9;7:11] </MATH>
+    <MOyMATH>8</MOyMATH>
+    <FRANCAIS>Francais[11;13;19:4] </FRANCAIS>
+    <MOyFR>14.3333333333333</MOyFR>
+    <ANGLAIS>Anglais[12;11;10:15] </ANGLAIS>
+    <MOyAnglais>11</MOyAnglais>
+    <PC>PC[10:12]  </PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[13;7;15;16:2]  </SVT>
+    <MOySVT>12.75</MOySVT>
+    <HG>HG[11:16]</HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAF013</CODE>
+    <Numero>NBV76RD</Numero>
+    <Nom>Gueye</Nom>
+    <Prénom>Abdalah</Prénom>
+    <Date.de.naissance>2001-01-01</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[12;17:0] </MATH>
+    <MOyMATH>14.5</MOyMATH>
+    <FRANCAIS>Francais[12;17;12:15] </FRANCAIS>
+    <MOyFR>13.6666666666667</MOyFR>
+    <ANGLAIS>Anglais[13;15;19:15] </ANGLAIS>
+    <MOyAnglais>15.6666666666667</MOyAnglais>
+    <PC>PC[11:19]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;8;12;11:12]  </SVT>
+    <MOySVT>10.75</MOySVT>
+    <HG>HG[10:18]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAF013</CODE>
+    <Numero>NB675DH</Numero>
+    <Nom>Dia</Nom>
+    <Prénom>Hawa</Prénom>
+    <Date.de.naissance>2007-07-07</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[15;12:10] </MATH>
+    <MOyMATH>13.5</MOyMATH>
+    <FRANCAIS>Francais[13;16;19:19] </FRANCAIS>
+    <MOyFR>16</MOyFR>
+    <ANGLAIS>Anglais[12;13;18:15] </ANGLAIS>
+    <MOyAnglais>14.3333333333333</MOyAnglais>
+    <PC>PC[12:19]  </PC>
+    <MOyPC>12</MOyPC>
+    <SVT>SVT[2;9;17;11:2]  </SVT>
+    <MOySVT>9.75</MOySVT>
+    <HG>HG[1:15]</HG>
+    <MOyHG>1</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BAF013</CODE>
+    <Numero>MLHF65D</Numero>
+    <Nom>Guiss&#xE9;</Nom>
+    <Prénom>Penda</Prénom>
+    <Date.de.naissance>2004-04-04</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[8;7:10] </MATH>
+    <MOyMATH>7.5</MOyMATH>
+    <FRANCAIS>Francais[15;12;9:14] </FRANCAIS>
+    <MOyFR>12</MOyFR>
+    <ANGLAIS>Anglais[13;15;19:15] </ANGLAIS>
+    <MOyAnglais>15.6666666666667</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[2;9;16;11:12]  </SVT>
+    <MOySVT>9.5</MOySVT>
+    <HG>HG[10:18]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BMP019</CODE>
+    <Numero>IHFK34G</Numero>
+    <Nom>Dioum</Nom>
+    <Prénom>Harry</Prénom>
+    <Date.de.naissance>2014-01-14</Date.de.naissance>
+    <Classe>5emeA</Classe>
+    <MATH>Math[12;14;5;11:13]  </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[18;11:10] </FRANCAIS>
+    <MOyFR>14.5</MOyFR>
+    <ANGLAIS>Anglais[17;5:15]  </ANGLAIS>
+    <MOyAnglais>11</MOyAnglais>
+    <PC>PC[3;15:9]</PC>
+    <MOyPC>9</MOyPC>
+    <SVT>SVT[12;19;01:04] </SVT>
+    <MOySVT>10.6666666666667</MOySVT>
+    <HG>HG[15:11]  </HG>
+    <MOyHG>15</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BMP019</CODE>
+    <Numero>3FR5IJ9</Numero>
+    <Nom>Diallo</Nom>
+    <Prénom>Hermione</Prénom>
+    <Date.de.naissance>2012-08-12</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>Math[10;12;19;11:16]  </MATH>
+    <MOyMATH>13</MOyMATH>
+    <FRANCAIS>Francais[18;11:15] </FRANCAIS>
+    <MOyFR>14.5</MOyFR>
+    <ANGLAIS>Anglais[8;15:15]  </ANGLAIS>
+    <MOyAnglais>11.5</MOyAnglais>
+    <PC>PC[7;11;09:9]</PC>
+    <MOyPC>9</MOyPC>
+    <SVT>SVT[15;11;11:12] </SVT>
+    <MOySVT>12.3333333333333</MOySVT>
+    <HG>HG[6;14:16]  </HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BMP019</CODE>
+    <Numero>PM12NG7</Numero>
+    <Nom>Diop</Nom>
+    <Prénom>Mari&#xE8;me</Prénom>
+    <Date.de.naissance>2019-08-19</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH> Math[12;14;5;11:13]   </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[4;11:13]  </FRANCAIS>
+    <MOyFR>7.5</MOyFR>
+    <ANGLAIS>Anglais[13;8:15]  </ANGLAIS>
+    <MOyAnglais>10.5</MOyAnglais>
+    <PC>PC[15;11:9]</PC>
+    <MOyPC>13</MOyPC>
+    <SVT>SVT[12;9;16;11:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[11:13]</HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BMP019</CODE>
+    <Numero>89HY6F5</Numero>
+    <Nom>Diallo</Nom>
+    <Prénom>Ronald</Prénom>
+    <Date.de.naissance>2009-05-09</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[10;14;5:16] </MATH>
+    <MOyMATH>9.66666666666667</MOyMATH>
+    <FRANCAIS>Francais[4;11:13]  </FRANCAIS>
+    <MOyFR>7.5</MOyFR>
+    <ANGLAIS>Anglais[13;5:15]</ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12] </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:13]  </HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BMP019</CODE>
+    <Numero>5D7BKJ2</Numero>
+    <Nom>Fall</Nom>
+    <Prénom>Magui</Prénom>
+    <Date.de.naissance>2030-08-30</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[10;11:15] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[7;12;8:13] </FRANCAIS>
+    <MOyFR>9</MOyFR>
+    <ANGLAIS>Anglais[13;5;9:15] </ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:13]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BMP019</CODE>
+    <Numero>PK0I89K</Numero>
+    <Nom>Camara</Nom>
+    <Prénom>Rachid</Prénom>
+    <Date.de.naissance>2015-02-15</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>   Math[12;14;5;11:13]   </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[14;11:13]  </FRANCAIS>
+    <MOyFR>12.5</MOyFR>
+    <ANGLAIS>Anglais[13;8:5]  </ANGLAIS>
+    <MOyAnglais>10.5</MOyAnglais>
+    <PC>PC[11:9]</PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[11:13]</HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BMP019</CODE>
+    <Numero>9F6J9TT</Numero>
+    <Nom>Pouye</Nom>
+    <Prénom>Ousseynou</Prénom>
+    <Date.de.naissance>2002-12-02</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[10;14;5;11;15:17] </MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[16;11:13]  </FRANCAIS>
+    <MOyFR>13.5</MOyFR>
+    <ANGLAIS>Anglais[13;5:15]</ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[11;16:16]  </PC>
+    <MOyPC>13.5</MOyPC>
+    <SVT>SVT[12;3;17;18:12] </SVT>
+    <MOySVT>12.5</MOySVT>
+    <HG>HG[14;12:11]  </HG>
+    <MOyHG>13</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BMP019</CODE>
+    <Numero>6G6F9F1</Numero>
+    <Nom>Deme</Nom>
+    <Prénom>Mahi</Prénom>
+    <Date.de.naissance>2027-10-27</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>Math[14;15;11:13] </MATH>
+    <MOyMATH>13.3333333333333</MOyMATH>
+    <FRANCAIS>Francais[14;12:13]  </FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>Anglais[12;8:15]  </ANGLAIS>
+    <MOyAnglais>10</MOyAnglais>
+    <PC>PC[11;11:9] </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[10;9;16;13:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:16]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>BMP019</CODE>
+    <Numero>BH54JJ6</Numero>
+    <Nom>Dubois</Nom>
+    <Prénom>Bachir</Prénom>
+    <Date.de.naissance>2015-09-15</Date.de.naissance>
+    <Classe>5emeA</Classe>
+    <MATH>Math[10;15:15] </MATH>
+    <MOyMATH>12.5</MOyMATH>
+    <FRANCAIS>Francais[17;9;8:13] </FRANCAIS>
+    <MOyFR>11.3333333333333</MOyFR>
+    <ANGLAIS>Anglais[10;5;9:15] </ANGLAIS>
+    <MOyAnglais>8</MOyAnglais>
+    <PC>PC[10;13:11]  </PC>
+    <MOyPC>11.5</MOyPC>
+    <SVT>SVT[12;11;16;8:12]  </SVT>
+    <MOySVT>11.75</MOySVT>
+    <HG>HG[10:10]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>14.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD005</CODE>
+    <Numero>9HBW36T</Numero>
+    <Nom>Ba</Nom>
+    <Prénom>Aliou</Prénom>
+    <Date.de.naissance>2001-01-01</Date.de.naissance>
+    <Classe>5emeA</Classe>
+    <MATH>Math[15;16:15] </MATH>
+    <MOyMATH>15.5</MOyMATH>
+    <FRANCAIS>Francais[10;11;10:9] </FRANCAIS>
+    <MOyFR>10.3333333333333</MOyFR>
+    <ANGLAIS>Anglais[14;12;13:15] </ANGLAIS>
+    <MOyAnglais>13</MOyAnglais>
+    <PC>PC[15:15]  </PC>
+    <MOyPC>15</MOyPC>
+    <SVT>SVT[12;10;17;13:12]  </SVT>
+    <MOySVT>13</MOySVT>
+    <HG>HG[17:14]</HG>
+    <MOyHG>17</MOyHG>
+    <MoyenneGenerale>13.9722222222222</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD005</CODE>
+    <Numero>44DSW78</Numero>
+    <Nom>Ndiaye</Nom>
+    <Prénom>Sidy</Prénom>
+    <Date.de.naissance>2019-01-19</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>Math[11;10;12:10]</MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[14:15]</FRANCAIS>
+    <MOyFR>14</MOyFR>
+    <ANGLAIS>Anglais[14:14]</ANGLAIS>
+    <MOyAnglais>14</MOyAnglais>
+    <PC>PC[7;10;9:10]</PC>
+    <MOyPC>8.66666666666667</MOyPC>
+    <SVT>SVT[14;12;10:10]</SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[14:14]</HG>
+    <MOyHG>14</MOyHG>
+    <MoyenneGenerale>12.2777777777778</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD005</CODE>
+    <Numero>48DKG8T</Numero>
+    <Nom>Baal</Nom>
+    <Prénom>Boubou</Prénom>
+    <Date.de.naissance>2026-04-26</Date.de.naissance>
+    <Classe>4emeB</Classe>
+    <MATH>Math[12;10;11:15]</MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[12:16]</FRANCAIS>
+    <MOyFR>12</MOyFR>
+    <ANGLAIS>Anglais[12:12]</ANGLAIS>
+    <MOyAnglais>12</MOyAnglais>
+    <PC>PC[17;11;8:11]</PC>
+    <MOyPC>12</MOyPC>
+    <SVT>SVT[13;15;11:14]</SVT>
+    <MOySVT>13</MOySVT>
+    <HG>HG[12:17]</HG>
+    <MOyHG>12</MOyHG>
+    <MoyenneGenerale>12</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD007</CODE>
+    <Numero>UQI7FN8</Numero>
+    <Nom>Cyrille </Nom>
+    <Prénom>Keys</Prénom>
+    <Date.de.naissance>2007-11-07</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[9;10;5;11;13:16] </MATH>
+    <MOyMATH>9.6</MOyMATH>
+    <FRANCAIS>Francais[10;11:13]  </FRANCAIS>
+    <MOyFR>10.5</MOyFR>
+    <ANGLAIS>Anglais[13;12:15]</ANGLAIS>
+    <MOyAnglais>12.5</MOyAnglais>
+    <PC>PC[12:19]  </PC>
+    <MOyPC>12</MOyPC>
+    <SVT>SVT[15;9;16;11:12] </SVT>
+    <MOySVT>12.75</MOySVT>
+    <HG>HG[13:13]  </HG>
+    <MOyHG>13</MOyHG>
+    <MoyenneGenerale>11.725</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD005</CODE>
+    <Numero>Q7XVP6G</Numero>
+    <Nom>Seck</Nom>
+    <Prénom>Bineta</Prénom>
+    <Date.de.naissance>2012-02-12</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[12;16;11:12]</MATH>
+    <MOyMATH>13</MOyMATH>
+    <FRANCAIS>Francais[13:16]</FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>Anglais[10:10]</ANGLAIS>
+    <MOyAnglais>10</MOyAnglais>
+    <PC>PC[14;8:16]</PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[13;13;12:8]</SVT>
+    <MOySVT>12.6666666666667</MOySVT>
+    <HG>HG[10:9]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>11.6111111111111</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD005</CODE>
+    <Numero>23YLTXT</Numero>
+    <Nom>Baal</Nom>
+    <Prénom>Thierno</Prénom>
+    <Date.de.naissance>2022-01-22</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[12;14;15:8]</MATH>
+    <MOyMATH>13.6666666666667</MOyMATH>
+    <FRANCAIS>Francais[11:11]</FRANCAIS>
+    <MOyFR>11</MOyFR>
+    <ANGLAIS>Anglais[12:14]</ANGLAIS>
+    <MOyAnglais>12</MOyAnglais>
+    <PC>PC[13;11:13]</PC>
+    <MOyPC>12</MOyPC>
+    <SVT>SVT[12;12;10:10]</SVT>
+    <MOySVT>11.3333333333333</MOySVT>
+    <HG>HG[8:10]</HG>
+    <MOyHG>8</MOyHG>
+    <MoyenneGenerale>11.3333333333333</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD007</CODE>
+    <Numero>EPJHQQ5</Numero>
+    <Nom>Diaw</Nom>
+    <Prénom>Fallou</Prénom>
+    <Date.de.naissance>2012-08-12</Date.de.naissance>
+    <Classe>3emeB</Classe>
+    <MATH>   Math[12;14;5;11:13]   </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[14;12:13]  </FRANCAIS>
+    <MOyFR>13</MOyFR>
+    <ANGLAIS>Anglais[12;8:15]  </ANGLAIS>
+    <MOyAnglais>10</MOyAnglais>
+    <PC>PC[11:9]</PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[10;9;16;13:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:16]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>11.0833333333333</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD005</CODE>
+    <Numero>M67KQV7</Numero>
+    <Nom>Correa</Nom>
+    <Prénom>Albert</Prénom>
+    <Date.de.naissance>2026-12-26</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[11;10;12:10]</MATH>
+    <MOyMATH>11</MOyMATH>
+    <FRANCAIS>Francais[10:9]</FRANCAIS>
+    <MOyFR>10</MOyFR>
+    <ANGLAIS>Anglais[12:111]</ANGLAIS>
+    <MOyAnglais>12</MOyAnglais>
+    <PC>PC[11;10;9:10]</PC>
+    <MOyPC>10</MOyPC>
+    <SVT>SVT[10;12;8:12]</SVT>
+    <MOySVT>10</MOySVT>
+    <HG>HG[11:13]</HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>10.6666666666667</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD007</CODE>
+    <Numero>KM729R9</Numero>
+    <Nom>Ndiaye</Nom>
+    <Prénom>Marie</Prénom>
+    <Date.de.naissance>2019-02-19</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>   Math[12;14;5;11:13]   </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[4;11:13]  </FRANCAIS>
+    <MOyFR>7.5</MOyFR>
+    <ANGLAIS>Anglais[13;8:15]  </ANGLAIS>
+    <MOyAnglais>10.5</MOyAnglais>
+    <PC>PC[11:9]</PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[11:13]</HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>10.4166666666667</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD007</CODE>
+    <Numero>18G9C4L</Numero>
+    <Nom>Dieye</Nom>
+    <Prénom>Abdoulaye</Prénom>
+    <Date.de.naissance>2001-01-01</Date.de.naissance>
+    <Classe>6emeB</Classe>
+    <MATH>   Math[12;14;5;11:13]   </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[4;11:13]  </FRANCAIS>
+    <MOyFR>7.5</MOyFR>
+    <ANGLAIS>Anglais[13;8:15]  </ANGLAIS>
+    <MOyAnglais>10.5</MOyAnglais>
+    <PC>PC[11:9]</PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[11:13]</HG>
+    <MOyHG>11</MOyHG>
+    <MoyenneGenerale>10.4166666666667</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD005</CODE>
+    <Numero>20LH7BG</Numero>
+    <Nom>Faye</Nom>
+    <Prénom>Fallou</Prénom>
+    <Date.de.naissance>2019-04-19</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[10;10;10;11:10]</MATH>
+    <MOyMATH>10.25</MOyMATH>
+    <FRANCAIS>Francais[12:13]</FRANCAIS>
+    <MOyFR>12</MOyFR>
+    <ANGLAIS>Anglais[10:11]</ANGLAIS>
+    <MOyAnglais>10</MOyAnglais>
+    <PC>PC[8;13;11:12]</PC>
+    <MOyPC>10.6666666666667</MOyPC>
+    <SVT>SVT[12;15;10;9:10]</SVT>
+    <MOySVT>11.5</MOySVT>
+    <HG>HG[8:10]</HG>
+    <MOyHG>8</MOyHG>
+    <MoyenneGenerale>10.4027777777778</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD007</CODE>
+    <Numero>0747PMJ</Numero>
+    <Nom>Ndao</Nom>
+    <Prénom>Baye Ndiaga</Prénom>
+    <Date.de.naissance>2008-08-08</Date.de.naissance>
+    <Classe>5emeB</Classe>
+    <MATH>Math[12;14;5;11:13]  </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[8;11:13] </FRANCAIS>
+    <MOyFR>9.5</MOyFR>
+    <ANGLAIS>Anglais[13;5:15]  </ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[13;11:9]</PC>
+    <MOyPC>12</MOyPC>
+    <SVT>SVT[13;9;11:14] </SVT>
+    <MOySVT>11</MOySVT>
+    <HG>HG[10:13]  </HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>10.3333333333333</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD005</CODE>
+    <Numero>8D805GT</Numero>
+    <Nom>Diop</Nom>
+    <Prénom>Seyni</Prénom>
+    <Date.de.naissance>2029-09-29</Date.de.naissance>
+    <Classe>3emeA</Classe>
+    <MATH>Math[10;11:15] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[7;12;8:13] </FRANCAIS>
+    <MOyFR>9</MOyFR>
+    <ANGLAIS>Anglais[13;5;9:15] </ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:13]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>10.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD007</CODE>
+    <Numero>H18AC4W</Numero>
+    <Nom>Ba</Nom>
+    <Prénom>Mouhamed</Prénom>
+    <Date.de.naissance>2014-01-14</Date.de.naissance>
+    <Classe>6emeA</Classe>
+    <MATH>Math[10;11:15] </MATH>
+    <MOyMATH>10.5</MOyMATH>
+    <FRANCAIS>Francais[7;12;8:13] </FRANCAIS>
+    <MOyFR>9</MOyFR>
+    <ANGLAIS>Anglais[13;5;9:15] </ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12]  </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:13]</HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>10.25</MoyenneGenerale>
+  </Etudiant>
+  <Etudiant>
+    <CODE>AAD007</CODE>
+    <Numero>Q7U2XFP</Numero>
+    <Nom>Deme</Nom>
+    <Prénom>Abdou</Prénom>
+    <Date.de.naissance>2016-01-16</Date.de.naissance>
+    <Classe>4emeA</Classe>
+    <MATH>Math[10;14;5;11;13:16] </MATH>
+    <MOyMATH>10.6</MOyMATH>
+    <FRANCAIS>Francais[4;11:13]  </FRANCAIS>
+    <MOyFR>7.5</MOyFR>
+    <ANGLAIS>Anglais[13;5:15]</ANGLAIS>
+    <MOyAnglais>9</MOyAnglais>
+    <PC>PC[11:9]  </PC>
+    <MOyPC>11</MOyPC>
+    <SVT>SVT[12;9;16;11:12] </SVT>
+    <MOySVT>12</MOySVT>
+    <HG>HG[10:13]  </HG>
+    <MOyHG>10</MOyHG>
+    <MoyenneGenerale>10.0166666666667</MoyenneGenerale>
+  </Etudiant>
+</rows>
